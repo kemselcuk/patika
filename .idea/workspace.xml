@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cf9c3b6-4594-4a2e-950b-1c042c74c2ff" name="Changes" comment="yeni odev yapıldı">
-      <change afterPath="$PROJECT_DIR$/src/Kombinasyon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UsAlma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Kombinasyon">
+  <component name="RunManager" selected="Application.UsAlma">
     <configuration name="DortVeBesinKuvvetleri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DortVeBesinKuvvetleri" />
       <module name="patika" />
@@ -67,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UcakBilet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UcakBilet" />
+    <configuration name="UsAlma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UsAlma" />
       <module name="patika" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UsAlma" />
         <item itemvalue="Application.Kombinasyon" />
         <item itemvalue="Application.DortVeBesinKuvvetleri" />
         <item itemvalue="Application.TekSayiGeleneKadar" />
         <item itemvalue="Application.UcVeDorteBolunme" />
-        <item itemvalue="Application.UcakBilet" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677855074420</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="yeni odev yapıldı">
+      <created>1677856401864</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1677856401864</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
