@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cf9c3b6-4594-4a2e-950b-1c042c74c2ff" name="Changes" comment="manav kasa odevi bitti">
-      <change afterPath="$PROJECT_DIR$/src/ScHesapMakinesi.java" afterDir="false" />
+    <list default="true" id="1cf9c3b6-4594-4a2e-950b-1c042c74c2ff" name="Changes" comment="yeni odev yapıldı">
+      <change afterPath="$PROJECT_DIR$/src/KullaniciGirisi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,9 +38,16 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ScHesapMakinesi">
+  <component name="RunManager" selected="Application.KullaniciGirisi">
     <configuration name="Deneme1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Deneme1" />
+      <module name="patika" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KullaniciGirisi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KullaniciGirisi" />
       <module name="patika" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,13 +67,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VucutKitleEndeksi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VucutKitleEndeksi" />
-      <module name="patika" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="deneme1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="deneme1" />
       <module name="patika" />
@@ -76,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KullaniciGirisi" />
         <item itemvalue="Application.ScHesapMakinesi" />
         <item itemvalue="Application.Deneme1" />
         <item itemvalue="Application.deneme1" />
         <item itemvalue="Application.ManavKasa" />
-        <item itemvalue="Application.VucutKitleEndeksi" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677767437878</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="sc hesap makine odevi bitti">
+      <created>1677834864938</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677834864938</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -129,6 +136,8 @@
     <MESSAGE value="daire alan odevi bitti" />
     <MESSAGE value="vucut kitle endeksi odevi bitti" />
     <MESSAGE value="manav kasa odevi bitti" />
-    <option name="LAST_COMMIT_MESSAGE" value="manav kasa odevi bitti" />
+    <MESSAGE value="sc hesap makine odevi bitti" />
+    <MESSAGE value="yeni odev yapıldı" />
+    <option name="LAST_COMMIT_MESSAGE" value="yeni odev yapıldı" />
   </component>
 </project>
