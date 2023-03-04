@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cf9c3b6-4594-4a2e-950b-1c042c74c2ff" name="Changes" comment="yeni odev yapildı">
-      <change afterPath="$PROJECT_DIR$/src/GelisimisHesapmakinesi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UsAlmaRecursive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.GelisimisHesapmakinesi">
+  <component name="RunManager" selected="Application.UsAlmaRecursive">
     <configuration name="BasamakSayiToplami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasamakSayiToplami" />
       <module name="patika" />
@@ -60,13 +60,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kombinasyon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kombinasyon" />
-      <module name="patika" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="UsAlma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UsAlma" />
       <module name="patika" />
@@ -74,13 +67,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UsAlmaRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UsAlmaRecursive" />
+      <module name="patika" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UsAlmaRecursive" />
         <item itemvalue="Application.GelisimisHesapmakinesi" />
         <item itemvalue="Application.BasamakSayiToplami" />
         <item itemvalue="Application.Deneme1" />
         <item itemvalue="Application.UsAlma" />
-        <item itemvalue="Application.Kombinasyon" />
       </list>
     </recent_temporary>
   </component>
@@ -240,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677871402844</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="yeni odev yapildı">
+      <created>1677927571199</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1677927571199</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
